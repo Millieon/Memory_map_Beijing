@@ -44,7 +44,7 @@ function preload() {
 function setup() {
  
 
-  canvas = createCanvas(windowWidth/3, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight);
 
   pg = createGraphics(windowWidth/4, windowHeight);
 
